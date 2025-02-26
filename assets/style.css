@@ -1,0 +1,4 @@
+body { font-family: Arial, sans-serif; }
+.wrap h2 { color: #0073aa; }
+table { width: 100%; border-collapse: collapse; }
+th, td { border: 1px solid #ddd; padding: 10px; text-align: left; }
