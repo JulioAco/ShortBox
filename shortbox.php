@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: Mi Acortador de Enlaces
+Plugin Name: ShortBox
 Plugin URI: https://tudominio.com
-Description: Plugin para acortar enlaces con tu dominio.
-Version: 1.0
-Author: Tu Nombre
-Author URI: https://tudominio.com
+Description: Plugin para acortar enlaces gratuito.
+Version: 1.0.1
+Author: Gabywnk
+Author URI: https://vlog.inibox.top
 License: GPL2
 */
 
